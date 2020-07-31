@@ -8,7 +8,7 @@ time_start = time.time()
 
 # create the MS word app
 word_app = win32com.client.Dispatch('Word.Application')
-
+word_app.Visible = False
 # conversion
 file_input = os.path.abspath('./sample_data/sample_file1.doc')
 file_output = os.path.abspath('./sample_data/sample_file1.pdf')
