@@ -107,3 +107,8 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+### References:
+- [How to customize readme.md v1](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
+- [Blog post workflow](https://github.com/gautamkrishnar/blog-post-workflow)
+- [Github readme stats](https://github.com/anuraghazra/github-readme-stats)
