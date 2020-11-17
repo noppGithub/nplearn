@@ -31,6 +31,10 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to remove multiple lines or specific range of lines from very long log file](https://www.youtube.com/watch?v=sgTP7U3cBmc)
+- [How to insert empty row between each row in Excel](https://www.youtube.com/watch?v=uHtboqI6qRc)
+- [How to convert Microsoft Word file to PDF using Python](https://www.youtube.com/watch?v=MGK6XuT22zM)
+- [How to install Python and multiple version of Python on Windows](https://www.youtube.com/watch?v=7_HTgVhyz6U)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC4ZEHFklDEPFnCTBxjaChTg)
@@ -51,6 +55,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#20](https://github.com/bcbnz/pylabels/issues/20) in [bcbnz/pylabels](https://github.com/bcbnz/pylabels)
+2. 🗣 Commented on [#20](https://github.com/bcbnz/pylabels/issues/20) in [bcbnz/pylabels](https://github.com/bcbnz/pylabels)
+3. 🗣 Commented on [#5](https://github.com/Edinburgh-Genome-Foundry/blabel/issues/5) in [Edinburgh-Genome-Foundry/blabel](https://github.com/Edinburgh-Genome-Foundry/blabel)
+4. 🗣 Commented on [#5](https://github.com/Edinburgh-Genome-Foundry/blabel/issues/5) in [Edinburgh-Genome-Foundry/blabel](https://github.com/Edinburgh-Genome-Foundry/blabel)
+5. ❗️ Opened issue [#5](https://github.com/Edinburgh-Genome-Foundry/blabel/issues/5) in [Edinburgh-Genome-Foundry/blabel](https://github.com/Edinburgh-Genome-Foundry/blabel)
 <!--END_SECTION:activity-->
 
 </details>
