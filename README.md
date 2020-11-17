@@ -50,6 +50,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#20](https://github.com/bcbnz/pylabels/issues/20) in [bcbnz/pylabels](https://github.com/bcbnz/pylabels)
+2. 🗣 Commented on [#20](https://github.com/bcbnz/pylabels/issues/20) in [bcbnz/pylabels](https://github.com/bcbnz/pylabels)
+3. 🗣 Commented on [#5](https://github.com/Edinburgh-Genome-Foundry/blabel/issues/5) in [Edinburgh-Genome-Foundry/blabel](https://github.com/Edinburgh-Genome-Foundry/blabel)
+4. 🗣 Commented on [#5](https://github.com/Edinburgh-Genome-Foundry/blabel/issues/5) in [Edinburgh-Genome-Foundry/blabel](https://github.com/Edinburgh-Genome-Foundry/blabel)
+5. ❗️ Opened issue [#5](https://github.com/Edinburgh-Genome-Foundry/blabel/issues/5) in [Edinburgh-Genome-Foundry/blabel](https://github.com/Edinburgh-Genome-Foundry/blabel)
 <!--END_SECTION:activity-->
 
 </details>
