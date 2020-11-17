@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Show the latest blog post workflow
 on:
   schedule:
     # Run this job every single hour
@@ -7,7 +7,7 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Pull the latest posts to the README.md file
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
