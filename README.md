@@ -52,10 +52,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to remove multiple lines or specific range of lines from very long log file](https://www.youtube.com/watch?v=sgTP7U3cBmc)
-- [How to insert empty row between each row in Excel](https://www.youtube.com/watch?v=uHtboqI6qRc)
-- [How to convert Microsoft Word file to PDF using Python](https://www.youtube.com/watch?v=MGK6XuT22zM)
-- [How to install Python and multiple version of Python on Windows](https://www.youtube.com/watch?v=7_HTgVhyz6U)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
