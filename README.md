@@ -74,10 +74,13 @@
 
 </details>
 
-[website]: https://github.com/noppGithub
-[youtube]: https://www.youtube.com/channel/UC4ZEHFklDEPFnCTBxjaChTg
-
 ### References:
 - [How to customize readme.md v1](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
 - [Blog post workflow](https://github.com/gautamkrishnar/blog-post-workflow)
 - [Github readme stats](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Variables, mostly URLs -->
+[website]: https://github.com/noppGithub
+[youtube]: https://www.youtube.com/channel/UC4ZEHFklDEPFnCTBxjaChTg
+
+
