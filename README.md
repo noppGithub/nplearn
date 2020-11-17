@@ -30,32 +30,19 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to remove multiple lines or specific range of lines from very long log file](https://www.youtube.com/watch?v=sgTP7U3cBmc)
-- [How to insert empty row between each row in Excel](https://www.youtube.com/watch?v=uHtboqI6qRc)
-- [How to convert Microsoft Word file to PDF using Python](https://www.youtube.com/watch?v=MGK6XuT22zM)
-- [How to install Python and multiple version of Python on Windows](https://www.youtube.com/watch?v=7_HTgVhyz6U)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://www.youtube.com/channel/UC4ZEHFklDEPFnCTBxjaChTg)
 
 ---
 
 ### 📕 Latest Blog Posts
 
-<<<<<<< HEAD
-<!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
-=======
 <!-- BLOG-POST-LIST:START -->
 - [I'm glad to be here :)](https://dev.to/noppgithub/i-m-glad-to-be-here-2e1)
->>>>>>> 4031d9bbf26ef16ed99db5f68c8e57a3cb279134
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://dev.to/noppgithub)
 
 ---
 
@@ -63,11 +50,6 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/bcbnz/pylabels/issues/20) in [bcbnz/pylabels](https://github.com/bcbnz/pylabels)
-2. 🗣 Commented on [#20](https://github.com/bcbnz/pylabels/issues/20) in [bcbnz/pylabels](https://github.com/bcbnz/pylabels)
-3. 🗣 Commented on [#5](https://github.com/Edinburgh-Genome-Foundry/blabel/issues/5) in [Edinburgh-Genome-Foundry/blabel](https://github.com/Edinburgh-Genome-Foundry/blabel)
-4. 🗣 Commented on [#5](https://github.com/Edinburgh-Genome-Foundry/blabel/issues/5) in [Edinburgh-Genome-Foundry/blabel](https://github.com/Edinburgh-Genome-Foundry/blabel)
-5. ❗️ Opened issue [#5](https://github.com/Edinburgh-Genome-Foundry/blabel/issues/5) in [Edinburgh-Genome-Foundry/blabel](https://github.com/Edinburgh-Genome-Foundry/blabel)
 <!--END_SECTION:activity-->
 
 </details>
