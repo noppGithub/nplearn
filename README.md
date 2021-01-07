@@ -55,10 +55,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4310](https://github.com/microsoft/vscode-jupyter/issues/4310) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
-2. 🗣 Commented on [#307](https://github.com/vgrem/Office365-REST-Python-Client/issues/307) in [vgrem/Office365-REST-Python-Client](https://github.com/vgrem/Office365-REST-Python-Client)
-3. ❗️ Opened issue [#307](https://github.com/vgrem/Office365-REST-Python-Client/issues/307) in [vgrem/Office365-REST-Python-Client](https://github.com/vgrem/Office365-REST-Python-Client)
-4. 🗣 Commented on [#20](https://github.com/bcbnz/pylabels/issues/20) in [bcbnz/pylabels](https://github.com/bcbnz/pylabels)
+1. 🗣 Commented on [#4310](https://github.com/microsoft/vscode-jupyter/issues/4310) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
+2. ❗️ Opened issue [#4310](https://github.com/microsoft/vscode-jupyter/issues/4310) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
+3. 🗣 Commented on [#307](https://github.com/vgrem/Office365-REST-Python-Client/issues/307) in [vgrem/Office365-REST-Python-Client](https://github.com/vgrem/Office365-REST-Python-Client)
+4. ❗️ Opened issue [#307](https://github.com/vgrem/Office365-REST-Python-Client/issues/307) in [vgrem/Office365-REST-Python-Client](https://github.com/vgrem/Office365-REST-Python-Client)
 5. 🗣 Commented on [#20](https://github.com/bcbnz/pylabels/issues/20) in [bcbnz/pylabels](https://github.com/bcbnz/pylabels)
 <!--END_SECTION:activity-->
 
