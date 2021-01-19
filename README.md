@@ -55,11 +55,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4331](https://github.com/microsoft/vscode-jupyter/issues/4331) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
-2. 🗣 Commented on [#307](https://github.com/vgrem/Office365-REST-Python-Client/issues/307) in [vgrem/Office365-REST-Python-Client](https://github.com/vgrem/Office365-REST-Python-Client)
-3. ❗️ Opened issue [#4331](https://github.com/microsoft/vscode-jupyter/issues/4331) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
-4. 🗣 Commented on [#4310](https://github.com/microsoft/vscode-jupyter/issues/4310) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
-5. ❗️ Opened issue [#4310](https://github.com/microsoft/vscode-jupyter/issues/4310) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
+1. ❗️ Closed issue [#55](https://github.com/ragulpr/wtte-rnn/issues/55) in [ragulpr/wtte-rnn](https://github.com/ragulpr/wtte-rnn)
+2. 🗣 Commented on [#55](https://github.com/ragulpr/wtte-rnn/issues/55) in [ragulpr/wtte-rnn](https://github.com/ragulpr/wtte-rnn)
+3. 🗣 Commented on [#20](https://github.com/bcbnz/pylabels/issues/20) in [bcbnz/pylabels](https://github.com/bcbnz/pylabels)
+4. ❗️ Closed issue [#20](https://github.com/bcbnz/pylabels/issues/20) in [bcbnz/pylabels](https://github.com/bcbnz/pylabels)
+5. 🗣 Commented on [#5](https://github.com/Edinburgh-Genome-Foundry/blabel/issues/5) in [Edinburgh-Genome-Foundry/blabel](https://github.com/Edinburgh-Genome-Foundry/blabel)
 <!--END_SECTION:activity-->
 
 </details>
