@@ -29,11 +29,13 @@ my_message = (
 )
 print(my_message)
 
+# fstring with \
 my_message = f"""Today is a {day} \
 of {year}
 """
 print(my_message)
 
+# fstring without \
 my_message = f"""Today is a {day} 
 of {year}
 """
