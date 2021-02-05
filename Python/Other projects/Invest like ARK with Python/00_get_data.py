@@ -4,11 +4,14 @@ import datetime
 import os
 
 def create_folder(path):
+    """
+    create folder according to the input path
+    """
     p = Path(path)
-    p.mkdir(parents=True, exist_ok=True)
+    p.mkdir(parents=True,exist_ok=True)
 
 def get_data(url):
-    response = requests.get(url, stream=True)
+    response = requests.get(url,stream=True)
     return response.text
 
 # ETF urls
@@ -22,7 +25,6 @@ funds = {
     'IZRL Israel Innovative Technology ETF':'https://ark-funds.com/wp-content/fundsiteliterature/csv/ARK_ISRAEL_INNOVATIVE_TECHNOLOGY_ETF_IZRL_HOLDINGS.csv'
 }
 
-# ====================================== Application ======================================
 now_time = datetime.datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
 path_name = f"./data/{now_time}"
 create_folder(path_name)
