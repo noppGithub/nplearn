@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=www.Github.com&style=for-the-badge&url=https%3A%2F%2Fgithub.com/noppGithub)](https://github.com/noppGithub)
 [![Twitter Follow](https://img.shields.io/twitter/follow/learn_np?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com/noppGithub&screen_name=learn_np)
 
-## I am a person who love to learn new things
+## Let's have fun and learn together!!
 
 
 ### Connect with me:
