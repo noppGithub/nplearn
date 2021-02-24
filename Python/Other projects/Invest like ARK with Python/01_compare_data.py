@@ -1,9 +1,18 @@
 import pandas as pd
 from os import listdir
 from os.path import isfile,join,split
+import datetime
 
-# old data
-file_path = './data/2021-02-06_01-29-22'
+# get list of downloaded data in created/filled data directory
+dataDir = './data/'
+dataFolders = listdir(dataDir)
+
+# make sure retrieved list is sorted by date (from latest to oldest)
+sortedDataFolders = sorted(dataFolders, key=lambda x: datetime.datetime.strptime(x, '%Y-%m-%d_%H-%M-%S'), reverse=True)
+
+# old data - second newest download
+file_path = join(dataDir,sortedDataFolders[1])
+print(file_path)
 files = [join(file_path,file) for file in listdir(file_path) if isfile(join(file_path,file))]
 dfs =[]
 for file in files:
@@ -14,8 +23,8 @@ df_old = df_old[df_old['ticker'].notna()]
 df_old = df_old[['fund','ticker','shares']]
 df_old.columns = ['fund','ticker','shares_old']
 
-# new data
-file_path = './data/2021-02-06_01-30-02'
+# new data - most recent download
+file_path = join(dataDir,sortedDataFolders[0])
 files = [join(file_path,file) for file in listdir(file_path) if isfile(join(file_path,file))]
 dfs =[]
 for file in files:
