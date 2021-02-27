@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to find and remove duplicate records from Microsoft Excel](https://www.youtube.com/watch?v=qpfsfpPmFwY)
+- [How to UPSERT(Insert or Update) in Google BigQuery](https://www.youtube.com/watch?v=eiDCaUaOZV4)
 - [Python hello world and more](https://www.youtube.com/watch?v=HCc0QxxLQN0)
 - [Python string formatting](https://www.youtube.com/watch?v=0D2m94Y5oZQ)
 - [How to invest like ARK with Python](https://www.youtube.com/watch?v=_qLo5DB613Q)
-- [What are the best code editing tool that I use(probably yours too!)](https://www.youtube.com/watch?v=8BC23u0y0XU)
-- [How to remove multiple lines or specific range of lines from very long log file](https://www.youtube.com/watch?v=sgTP7U3cBmc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC4ZEHFklDEPFnCTBxjaChTg)
