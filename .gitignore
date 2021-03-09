@@ -1,7 +1,7 @@
 # Visual Studio code
 settings.json
 output/
-
+data/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
