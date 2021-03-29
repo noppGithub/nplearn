@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Python built-in functions](https://www.youtube.com/watch?v=xUENBwqERJI)
 - [Using Python to invest like ARK invest ETF(improved version)](https://www.youtube.com/watch?v=LX1kM4keJhg)
 - [Python variables, the key of every program](https://www.youtube.com/watch?v=hE-LuroEbm0)
 - [How to add comment in Python](https://www.youtube.com/watch?v=yR_383JYSXA)
 - [How to find and remove duplicate records from Microsoft Excel](https://www.youtube.com/watch?v=qpfsfpPmFwY)
-- [How to UPSERT(Insert or Update) in Google BigQuery](https://www.youtube.com/watch?v=eiDCaUaOZV4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC4ZEHFklDEPFnCTBxjaChTg)
