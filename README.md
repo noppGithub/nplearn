@@ -55,11 +55,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#851](https://github.com/microsoft/pylance-release/issues/851) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
-2. 🗣 Commented on [#4422](https://github.com/microsoft/vscode-jupyter/issues/4422) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
-3. ❗️ Closed issue [#55](https://github.com/ragulpr/wtte-rnn/issues/55) in [ragulpr/wtte-rnn](https://github.com/ragulpr/wtte-rnn)
-4. 🗣 Commented on [#55](https://github.com/ragulpr/wtte-rnn/issues/55) in [ragulpr/wtte-rnn](https://github.com/ragulpr/wtte-rnn)
-5. 🗣 Commented on [#20](https://github.com/bcbnz/pylabels/issues/20) in [bcbnz/pylabels](https://github.com/bcbnz/pylabels)
+1. ❗️ Opened issue [#202](https://github.com/VBA-tools/VBA-JSON/issues/202) in [VBA-tools/VBA-JSON](https://github.com/VBA-tools/VBA-JSON)
+2. 🗣 Commented on [#851](https://github.com/microsoft/pylance-release/issues/851) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
+3. 🗣 Commented on [#4422](https://github.com/microsoft/vscode-jupyter/issues/4422) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
+4. ❗️ Closed issue [#55](https://github.com/ragulpr/wtte-rnn/issues/55) in [ragulpr/wtte-rnn](https://github.com/ragulpr/wtte-rnn)
+5. 🗣 Commented on [#55](https://github.com/ragulpr/wtte-rnn/issues/55) in [ragulpr/wtte-rnn](https://github.com/ragulpr/wtte-rnn)
 <!--END_SECTION:activity-->
 
 </details>
