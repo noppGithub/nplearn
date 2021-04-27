@@ -55,9 +55,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#202](https://github.com/VBA-tools/VBA-JSON/issues/202) in [VBA-tools/VBA-JSON](https://github.com/VBA-tools/VBA-JSON)
-2. 🗣 Commented on [#851](https://github.com/microsoft/pylance-release/issues/851) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
-3. 🗣 Commented on [#4422](https://github.com/microsoft/vscode-jupyter/issues/4422) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
+1. ❗️ Closed issue [#202](https://github.com/VBA-tools/VBA-JSON/issues/202) in [VBA-tools/VBA-JSON](https://github.com/VBA-tools/VBA-JSON)
+2. 🗣 Commented on [#202](https://github.com/VBA-tools/VBA-JSON/issues/202) in [VBA-tools/VBA-JSON](https://github.com/VBA-tools/VBA-JSON)
+3. ❗️ Opened issue [#202](https://github.com/VBA-tools/VBA-JSON/issues/202) in [VBA-tools/VBA-JSON](https://github.com/VBA-tools/VBA-JSON)
 4. ❗️ Closed issue [#55](https://github.com/ragulpr/wtte-rnn/issues/55) in [ragulpr/wtte-rnn](https://github.com/ragulpr/wtte-rnn)
 5. 🗣 Commented on [#55](https://github.com/ragulpr/wtte-rnn/issues/55) in [ragulpr/wtte-rnn](https://github.com/ragulpr/wtte-rnn)
 <!--END_SECTION:activity-->
