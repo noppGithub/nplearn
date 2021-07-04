@@ -1,0 +1,1 @@
+Command: `jupyter notebook list`
