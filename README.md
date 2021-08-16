@@ -55,9 +55,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#202](https://github.com/VBA-tools/VBA-JSON/issues/202) in [VBA-tools/VBA-JSON](https://github.com/VBA-tools/VBA-JSON)
-2. 🗣 Commented on [#202](https://github.com/VBA-tools/VBA-JSON/issues/202) in [VBA-tools/VBA-JSON](https://github.com/VBA-tools/VBA-JSON)
-3. ❗️ Opened issue [#202](https://github.com/VBA-tools/VBA-JSON/issues/202) in [VBA-tools/VBA-JSON](https://github.com/VBA-tools/VBA-JSON)
+1. ❌ Closed PR [#2](https://github.com/noppGithub/nplearn/pull/2) in [noppGithub/nplearn](https://github.com/noppGithub/nplearn)
+2. 🗣 Commented on [#2](https://github.com/noppGithub/nplearn/issues/2) in [noppGithub/nplearn](https://github.com/noppGithub/nplearn)
+3. 🎉 Merged PR [#4](https://github.com/noppGithub/nplearn/pull/4) in [noppGithub/nplearn](https://github.com/noppGithub/nplearn)
 4. ❗️ Closed issue [#55](https://github.com/ragulpr/wtte-rnn/issues/55) in [ragulpr/wtte-rnn](https://github.com/ragulpr/wtte-rnn)
 5. 🗣 Commented on [#55](https://github.com/ragulpr/wtte-rnn/issues/55) in [ragulpr/wtte-rnn](https://github.com/ragulpr/wtte-rnn)
 <!--END_SECTION:activity-->
