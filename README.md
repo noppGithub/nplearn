@@ -71,7 +71,7 @@
 
 </details>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noppGithub&show_icons=true&theme=radical)
 
 #### Credit & References:
 - [How to customize readme.md v1](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
