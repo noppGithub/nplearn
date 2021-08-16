@@ -71,6 +71,8 @@
 
 </details>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 #### Credit & References:
 - [How to customize readme.md v1](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
 - [Blog post workflow](https://github.com/gautamkrishnar/blog-post-workflow)
