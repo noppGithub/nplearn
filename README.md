@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to remove blank lines from document in Visual Studio Code](https://www.youtube.com/watch?v=0U3D02dg02s)
 - [Get started with Jupyter notebook and Python](https://www.youtube.com/watch?v=fn61dNGXODY)
 - [Python built-in functions](https://www.youtube.com/watch?v=xUENBwqERJI)
 - [Using Python to invest like ARK invest ETF(improved version)](https://www.youtube.com/watch?v=LX1kM4keJhg)
 - [Python variables, the key of every program](https://www.youtube.com/watch?v=hE-LuroEbm0)
-- [How to add comment in Python](https://www.youtube.com/watch?v=yR_383JYSXA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC4ZEHFklDEPFnCTBxjaChTg)
