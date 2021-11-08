@@ -44,7 +44,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [My favorite tool to work with Python](https://dev.to/noppgithub/my-favorite-tool-to-work-with-python-2i8l)
-- [I'm glad to be here :)](https://dev.to/noppgithub/i-m-glad-to-be-here-2e1)
+- [I&#39;m glad to be here :&rpar;](https://dev.to/noppgithub/i-m-glad-to-be-here-2e1)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/noppgithub)
