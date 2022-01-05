@@ -29,11 +29,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to remove blank lines from document in Visual Studio Code](https://www.youtube.com/watch?v=0U3D02dg02s)
-- [Get started with Jupyter notebook and Python](https://www.youtube.com/watch?v=fn61dNGXODY)
-- [Python built-in functions](https://www.youtube.com/watch?v=xUENBwqERJI)
-- [Using Python to invest like ARK invest ETF&lpar;improved version&rpar;](https://www.youtube.com/watch?v=LX1kM4keJhg)
-- [Python variables, the key of every program](https://www.youtube.com/watch?v=hE-LuroEbm0)
+- [How to UPSERT&lpar;Insert or Update&rpar; in Google BigQuery](https://www.youtube.com/watch?v=eiDCaUaOZV4)
+- [Python string formatting](https://www.youtube.com/watch?v=0D2m94Y5oZQ)
+- [How to invest like ARK with Python](https://www.youtube.com/watch?v=_qLo5DB613Q)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC4ZEHFklDEPFnCTBxjaChTg)
