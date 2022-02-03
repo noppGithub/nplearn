@@ -55,11 +55,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/noppGithub/nplearn/pull/2) in [noppGithub/nplearn](https://github.com/noppGithub/nplearn)
-2. 🗣 Commented on [#2](https://github.com/noppGithub/nplearn/issues/2) in [noppGithub/nplearn](https://github.com/noppGithub/nplearn)
-3. 🎉 Merged PR [#4](https://github.com/noppGithub/nplearn/pull/4) in [noppGithub/nplearn](https://github.com/noppGithub/nplearn)
-4. ❗️ Closed issue [#55](https://github.com/ragulpr/wtte-rnn/issues/55) in [ragulpr/wtte-rnn](https://github.com/ragulpr/wtte-rnn)
-5. 🗣 Commented on [#55](https://github.com/ragulpr/wtte-rnn/issues/55) in [ragulpr/wtte-rnn](https://github.com/ragulpr/wtte-rnn)
+1. 🎉 Merged PR [#7](https://github.com/noppGithub/nplearn/pull/7) in [noppGithub/nplearn](https://github.com/noppGithub/nplearn)
+2. 🎉 Merged PR [#8](https://github.com/noppGithub/nplearn/pull/8) in [noppGithub/nplearn](https://github.com/noppGithub/nplearn)
+3. 🎉 Merged PR [#9](https://github.com/noppGithub/nplearn/pull/9) in [noppGithub/nplearn](https://github.com/noppGithub/nplearn)
+4. 🎉 Merged PR [#6](https://github.com/noppGithub/nplearn/pull/6) in [noppGithub/nplearn](https://github.com/noppGithub/nplearn)
+5. 🎉 Merged PR [#5](https://github.com/noppGithub/nplearn/pull/5) in [noppGithub/nplearn](https://github.com/noppGithub/nplearn)
 <!--END_SECTION:activity-->
 
 </details>
