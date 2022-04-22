@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to remove a project in GCP Google Cloud Platform](https://www.youtube.com/watch?v=tPVCj-9vORY)
 - [็How to rename a column name in Google BigQuery](https://www.youtube.com/watch?v=klfu20rVFTA)
 - [How to remove blank lines from document in Visual Studio Code](https://www.youtube.com/watch?v=0U3D02dg02s)
 - [Get started with Jupyter notebook and Python](https://www.youtube.com/watch?v=fn61dNGXODY)
 - [Python built-in functions](https://www.youtube.com/watch?v=xUENBwqERJI)
-- [Using Python to invest like ARK invest ETF&lpar;improved version&rpar;](https://www.youtube.com/watch?v=LX1kM4keJhg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC4ZEHFklDEPFnCTBxjaChTg)
