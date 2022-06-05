@@ -55,7 +55,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/noppGithub/nplearn/pull/7) in [noppGithub/nplearn](https://github.com/noppGithub/nplearn)
+1. 🎉 Merged PR [#10](https://github.com/noppGithub/nplearn/pull/10) in [noppGithub/nplearn](https://github.com/noppGithub/nplearn)
 2. 🎉 Merged PR [#8](https://github.com/noppGithub/nplearn/pull/8) in [noppGithub/nplearn](https://github.com/noppGithub/nplearn)
 3. 🎉 Merged PR [#9](https://github.com/noppGithub/nplearn/pull/9) in [noppGithub/nplearn](https://github.com/noppGithub/nplearn)
 4. 🎉 Merged PR [#6](https://github.com/noppGithub/nplearn/pull/6) in [noppGithub/nplearn](https://github.com/noppGithub/nplearn)
