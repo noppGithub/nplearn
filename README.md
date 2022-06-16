@@ -43,6 +43,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Airflow 2.3, What I know...](https://dev.to/noppgithub/airflow-23-what-i-know-13ap)
 - [My favorite tool to work with Python](https://dev.to/noppgithub/my-favorite-tool-to-work-with-python-2i8l)
 - [I&#39;m glad to be here :&rpar;](https://dev.to/noppgithub/i-m-glad-to-be-here-2e1)
 <!-- BLOG-POST-LIST:END -->
