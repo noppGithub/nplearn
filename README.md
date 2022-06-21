@@ -57,9 +57,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/noppGithub/nplearn/pull/11) in [noppGithub/nplearn](https://github.com/noppGithub/nplearn)
-2. 🎉 Merged PR [#10](https://github.com/noppGithub/nplearn/pull/10) in [noppGithub/nplearn](https://github.com/noppGithub/nplearn)
-3. 🎉 Merged PR [#9](https://github.com/noppGithub/nplearn/pull/9) in [noppGithub/nplearn](https://github.com/noppGithub/nplearn)
+1. ❗️ Opened issue [#183](https://github.com/marcosschroh/dataclasses-avroschema/issues/183) in [marcosschroh/dataclasses-avroschema](https://github.com/marcosschroh/dataclasses-avroschema)
+2. 🎉 Merged PR [#11](https://github.com/noppGithub/nplearn/pull/11) in [noppGithub/nplearn](https://github.com/noppGithub/nplearn)
+3. 🎉 Merged PR [#10](https://github.com/noppGithub/nplearn/pull/10) in [noppGithub/nplearn](https://github.com/noppGithub/nplearn)
 4. 🎉 Merged PR [#6](https://github.com/noppGithub/nplearn/pull/6) in [noppGithub/nplearn](https://github.com/noppGithub/nplearn)
 5. 🎉 Merged PR [#5](https://github.com/noppGithub/nplearn/pull/5) in [noppGithub/nplearn](https://github.com/noppGithub/nplearn)
 <!--END_SECTION:activity-->
