@@ -57,11 +57,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8122](https://github.com/GoogleCloudPlatform/python-docs-samples/issues/8122) in [GoogleCloudPlatform/python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples)
-2. ❗️ Opened issue [#183](https://github.com/marcosschroh/dataclasses-avroschema/issues/183) in [marcosschroh/dataclasses-avroschema](https://github.com/marcosschroh/dataclasses-avroschema)
-3. 🎉 Merged PR [#11](https://github.com/noppGithub/nplearn/pull/11) in [noppGithub/nplearn](https://github.com/noppGithub/nplearn)
-4. 🎉 Merged PR [#10](https://github.com/noppGithub/nplearn/pull/10) in [noppGithub/nplearn](https://github.com/noppGithub/nplearn)
-5. 🎉 Merged PR [#5](https://github.com/noppGithub/nplearn/pull/5) in [noppGithub/nplearn](https://github.com/noppGithub/nplearn)
+1. 🗣 Commented on [#8122](https://github.com/GoogleCloudPlatform/python-docs-samples/issues/8122) in [GoogleCloudPlatform/python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples)
+2. ❗️ Opened issue [#8122](https://github.com/GoogleCloudPlatform/python-docs-samples/issues/8122) in [GoogleCloudPlatform/python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples)
+3. ❗️ Opened issue [#183](https://github.com/marcosschroh/dataclasses-avroschema/issues/183) in [marcosschroh/dataclasses-avroschema](https://github.com/marcosschroh/dataclasses-avroschema)
+4. 🎉 Merged PR [#11](https://github.com/noppGithub/nplearn/pull/11) in [noppGithub/nplearn](https://github.com/noppGithub/nplearn)
+5. 🎉 Merged PR [#10](https://github.com/noppGithub/nplearn/pull/10) in [noppGithub/nplearn](https://github.com/noppGithub/nplearn)
 <!--END_SECTION:activity-->
 
 </details>
