@@ -20,3 +20,4 @@ class Solution:
             previous = previous.next
             carry //= 10
         return result.next
+
