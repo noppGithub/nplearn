@@ -57,11 +57,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#183](https://github.com/marcosschroh/dataclasses-avroschema/issues/183) in [marcosschroh/dataclasses-avroschema](https://github.com/marcosschroh/dataclasses-avroschema)
-2. 🗣 Commented on [#1](https://github.com/fingineering/GCPFunctionDevOpsDemo/issues/1) in [fingineering/GCPFunctionDevOpsDemo](https://github.com/fingineering/GCPFunctionDevOpsDemo)
-3. ❗️ Opened issue [#2](https://github.com/ruanmartinelli/terraform-cloud-function-api/issues/2) in [ruanmartinelli/terraform-cloud-function-api](https://github.com/ruanmartinelli/terraform-cloud-function-api)
-4. ❗️ Opened issue [#1](https://github.com/fingineering/GCPFunctionDevOpsDemo/issues/1) in [fingineering/GCPFunctionDevOpsDemo](https://github.com/fingineering/GCPFunctionDevOpsDemo)
-5. 🎉 Merged PR [#12](https://github.com/noppGithub/nplearn/pull/12) in [noppGithub/nplearn](https://github.com/noppGithub/nplearn)
+1. 🗣 Commented on [#1](https://github.com/fingineering/GCPFunctionDevOpsDemo/issues/1) in [fingineering/GCPFunctionDevOpsDemo](https://github.com/fingineering/GCPFunctionDevOpsDemo)
+2. 🗣 Commented on [#183](https://github.com/marcosschroh/dataclasses-avroschema/issues/183) in [marcosschroh/dataclasses-avroschema](https://github.com/marcosschroh/dataclasses-avroschema)
+3. 🗣 Commented on [#1](https://github.com/fingineering/GCPFunctionDevOpsDemo/issues/1) in [fingineering/GCPFunctionDevOpsDemo](https://github.com/fingineering/GCPFunctionDevOpsDemo)
+4. ❗️ Opened issue [#2](https://github.com/ruanmartinelli/terraform-cloud-function-api/issues/2) in [ruanmartinelli/terraform-cloud-function-api](https://github.com/ruanmartinelli/terraform-cloud-function-api)
+5. ❗️ Opened issue [#1](https://github.com/fingineering/GCPFunctionDevOpsDemo/issues/1) in [fingineering/GCPFunctionDevOpsDemo](https://github.com/fingineering/GCPFunctionDevOpsDemo)
 <!--END_SECTION:activity-->
 
 </details>
