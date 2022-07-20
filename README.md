@@ -59,8 +59,8 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/fingineering/GCPFunctionDevOpsDemo/issues/1) in [fingineering/GCPFunctionDevOpsDemo](https://github.com/fingineering/GCPFunctionDevOpsDemo)
 2. 🗣 Commented on [#1](https://github.com/fingineering/GCPFunctionDevOpsDemo/issues/1) in [fingineering/GCPFunctionDevOpsDemo](https://github.com/fingineering/GCPFunctionDevOpsDemo)
-3. 🗣 Commented on [#8122](https://github.com/GoogleCloudPlatform/python-docs-samples/issues/8122) in [GoogleCloudPlatform/python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples)
-4. 🗣 Commented on [#1](https://github.com/fingineering/GCPFunctionDevOpsDemo/issues/1) in [fingineering/GCPFunctionDevOpsDemo](https://github.com/fingineering/GCPFunctionDevOpsDemo)
+3. 🗣 Commented on [#1](https://github.com/fingineering/GCPFunctionDevOpsDemo/issues/1) in [fingineering/GCPFunctionDevOpsDemo](https://github.com/fingineering/GCPFunctionDevOpsDemo)
+4. 🗣 Commented on [#8122](https://github.com/GoogleCloudPlatform/python-docs-samples/issues/8122) in [GoogleCloudPlatform/python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples)
 5. 🗣 Commented on [#1](https://github.com/fingineering/GCPFunctionDevOpsDemo/issues/1) in [fingineering/GCPFunctionDevOpsDemo](https://github.com/fingineering/GCPFunctionDevOpsDemo)
 <!--END_SECTION:activity-->
 
