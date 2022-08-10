@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Python Leetcode 1254 Number of Closed island](https://www.youtube.com/watch?v=kEW60lf0wGI)
 - [How to create your own Docker image&lpar;PostgreSQL,DBeaver&rpar; and share to DockerHub](https://www.youtube.com/watch?v=82cLTsrYoH0)
 - [How to list all file in a folder using Excel VBA](https://www.youtube.com/watch?v=Nk6BuyC-bIY)
 - [How to remove a project in GCP Google Cloud Platform](https://www.youtube.com/watch?v=tPVCj-9vORY)
 - [็How to rename a column name in Google BigQuery](https://www.youtube.com/watch?v=klfu20rVFTA)
-- [How to remove blank lines from document in Visual Studio Code](https://www.youtube.com/watch?v=0U3D02dg02s)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC4ZEHFklDEPFnCTBxjaChTg)
@@ -57,8 +57,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/bellerb/wordle_solver/pull/6) in [bellerb/wordle_solver](https://github.com/bellerb/wordle_solver)
-2. 🗣 Commented on [#1](https://github.com/fingineering/GCPFunctionDevOpsDemo/issues/1) in [fingineering/GCPFunctionDevOpsDemo](https://github.com/fingineering/GCPFunctionDevOpsDemo)
+1. 🎉 Merged PR [#14](https://github.com/noppGithub/nplearn/pull/14) in [noppGithub/nplearn](https://github.com/noppGithub/nplearn)
+2. 💪 Opened PR [#6](https://github.com/bellerb/wordle_solver/pull/6) in [bellerb/wordle_solver](https://github.com/bellerb/wordle_solver)
 3. 🗣 Commented on [#1](https://github.com/fingineering/GCPFunctionDevOpsDemo/issues/1) in [fingineering/GCPFunctionDevOpsDemo](https://github.com/fingineering/GCPFunctionDevOpsDemo)
 4. 🗣 Commented on [#1](https://github.com/fingineering/GCPFunctionDevOpsDemo/issues/1) in [fingineering/GCPFunctionDevOpsDemo](https://github.com/fingineering/GCPFunctionDevOpsDemo)
 5. 🗣 Commented on [#1](https://github.com/fingineering/GCPFunctionDevOpsDemo/issues/1) in [fingineering/GCPFunctionDevOpsDemo](https://github.com/fingineering/GCPFunctionDevOpsDemo)
