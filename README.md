@@ -57,11 +57,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3203](https://github.com/microsoft/pylance-release/issues/3203) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
-2. 🎉 Merged PR [#15](https://github.com/noppGithub/nplearn/pull/15) in [noppGithub/nplearn](https://github.com/noppGithub/nplearn)
-3. ❗️ Opened issue [#1](https://github.com/infinitelambda/postgres-debezium-bigquery/issues/1) in [infinitelambda/postgres-debezium-bigquery](https://github.com/infinitelambda/postgres-debezium-bigquery)
-4. 🎉 Merged PR [#14](https://github.com/noppGithub/nplearn/pull/14) in [noppGithub/nplearn](https://github.com/noppGithub/nplearn)
-5. 💪 Opened PR [#6](https://github.com/bellerb/wordle_solver/pull/6) in [bellerb/wordle_solver](https://github.com/bellerb/wordle_solver)
+1. ❗️ Closed issue [#3203](https://github.com/microsoft/pylance-release/issues/3203) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
+2. 🗣 Commented on [#3203](https://github.com/microsoft/pylance-release/issues/3203) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
+3. ❗️ Opened issue [#3203](https://github.com/microsoft/pylance-release/issues/3203) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
+4. 🎉 Merged PR [#15](https://github.com/noppGithub/nplearn/pull/15) in [noppGithub/nplearn](https://github.com/noppGithub/nplearn)
+5. ❗️ Opened issue [#1](https://github.com/infinitelambda/postgres-debezium-bigquery/issues/1) in [infinitelambda/postgres-debezium-bigquery](https://github.com/infinitelambda/postgres-debezium-bigquery)
 <!--END_SECTION:activity-->
 
 </details>
