@@ -7,6 +7,7 @@ class Solution:
         return sum(output)
 
     def is_valid(self,val,arr2,d):
+        # use this function to check if the whole matrix is valid
         l, r = 0, len(arr2)
         while l < r:
             mid = (l + r) // 2
