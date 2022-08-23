@@ -25,12 +25,12 @@ class Solution:
     def longestConsecutive2(self, nums: List[int]) -> int:
         # this method exploits the fact that sequence is +1 or -1,
         # so we can use minus to find the distance between the first item and the last item in sequence
-        numset = set(nums)
+        nums = set(nums)
         longest = 0
         for num in nums:
-            if num - 1 not in numset:
+            if num - 1 not in nums:
                 next_val = num + 1
-                while next_val in numset:
+                while next_val in nums:
                     next_val += 1
                 longest = max(longest, next_val - num)
         return longest
