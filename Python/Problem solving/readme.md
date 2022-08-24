@@ -12,10 +12,15 @@ Q347: Top K Frequent Elements
 Q238: Product of Array Except Self
 Q___: [Encode Decode string](https://www.lintcode.com/problem/659/)
 Q128: Longest Consecutive Sequence
-
+Q23: Merge K sorted list
 
 
 ### Two Pointers
 - Q125: Valid palindrome
 - Q167: Two sum 2
 - Q15: 3 sum
+
+### Linked list
+- Q206: Reverse linked list
+- Q21: Merge linked list
+- Q23: Merge K linked list

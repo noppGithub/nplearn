@@ -7,6 +7,11 @@ class ListNode(object):
         self.val = x
         self.next = None
 
+    def __repr__(self):
+        return (
+            "ListNode(val=" + str(self.val) + ", next={" + str(self.next) + "})"
+        )
+
     @property
     def next(self):
         return self._next
@@ -20,6 +25,7 @@ class Solution(object):
     def mergeTwoLists(
         self, list1: Optional[ListNode], list2: Optional[ListNode]
     ) -> Optional[ListNode]:
+        # dummy for avoiding empty linked list
         prev = dummy = ListNode(None)
         while list1 and list2:
             if list1.val < list2.val:
@@ -31,6 +37,7 @@ class Solution(object):
             prev = prev.next
         prev.next = list1 or list2
         return dummy.next
+
 
 
 if __name__ == "__main__":
