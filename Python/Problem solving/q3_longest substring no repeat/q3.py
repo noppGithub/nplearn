@@ -1,5 +1,13 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
+        """find the longest substring by iterating over characters in the given string
+
+        Args:
+            s (str): input string
+
+        Returns:
+            int: longest length of the substring
+        """
         max_length = 0
         start = 0
         last_seen_char = {}  # store the last seen character
@@ -16,4 +24,4 @@ class Solution:
 
 if __name__ == "__main__":
     s = Solution()
-    print(s.lengthOfLongestSubstring("abcabcxyzbb"))
+    print(s.lengthOfLongestSubstring("abcabcbb"))
