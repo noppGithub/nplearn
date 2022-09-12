@@ -37,3 +37,5 @@ if __name__ == "__main__":
     print("Should be spam:", q.pop())
     print("Should be foo:", q.pop())
     print("Should be grok:", q.pop())
+    # them item with higher priority get pop out first,
+    # if the priority is the same , pop the item with lower index
