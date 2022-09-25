@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to send message, sticker, image via LINE notify using Python](https://www.youtube.com/watch?v=_iSSOUFANyk)
 - [Python Leetcode 1512 Number of Good Pair](https://www.youtube.com/watch?v=rNIvpqciqRM)
 - [Python Leetcode 1470 Shuffle the Array](https://www.youtube.com/watch?v=VmgRXK9I3NU)
 - [Python Leetcode 1254 Number of Closed island](https://www.youtube.com/watch?v=kEW60lf0wGI)
 - [How to create your own Docker image&lpar;PostgreSQL,DBeaver&rpar; and share to DockerHub](https://www.youtube.com/watch?v=82cLTsrYoH0)
-- [How to list all file in a folder using Excel VBA](https://www.youtube.com/watch?v=Nk6BuyC-bIY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC4ZEHFklDEPFnCTBxjaChTg)
