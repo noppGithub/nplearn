@@ -14,6 +14,7 @@ class Solution:
     def topKFrequent2(self, words: List[str], k: int) -> List[str]:
         words.sort()
         cnt = Counter(words)
+        # use ~ to inverse
         output = heapq.nsmallest(k, cnt, key=lambda word: (~cnt[word], word))
         return output
 
