@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to run your Python code in VS code ?](https://www.youtube.com/watch?v=nhArN7BBDOM)
 - [How to get the list from A to Z in Python without typing them ?](https://www.youtube.com/watch?v=S-Ns7-ZgIUc)
 - [How to send message, sticker, image via LINE notify using Python](https://www.youtube.com/watch?v=_iSSOUFANyk)
 - [Python Leetcode 1512 Number of Good Pair](https://www.youtube.com/watch?v=rNIvpqciqRM)
 - [Python Leetcode 1470 Shuffle the Array](https://www.youtube.com/watch?v=VmgRXK9I3NU)
+- [Python Leetcode 1254 Number of Closed island](https://www.youtube.com/watch?v=kEW60lf0wGI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC4ZEHFklDEPFnCTBxjaChTg)
