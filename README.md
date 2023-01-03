@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [defaultdict in Python is cool !!!](https://www.youtube.com/watch?v=DXtttKOLT_o)
 - [How to run a Python script in VS Code](https://www.youtube.com/watch?v=WunxBBI_6Cw)
 - [How to get the list from A to Z in Python without typing them ?](https://www.youtube.com/watch?v=S-Ns7-ZgIUc)
 - [How to send message, sticker, image via LINE notify using Python](https://www.youtube.com/watch?v=_iSSOUFANyk)
 - [Python Leetcode 1512 Number of Good Pair](https://www.youtube.com/watch?v=rNIvpqciqRM)
-- [Python Leetcode 1470 Shuffle the Array](https://www.youtube.com/watch?v=VmgRXK9I3NU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC4ZEHFklDEPFnCTBxjaChTg)
