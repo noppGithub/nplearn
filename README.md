@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to use Counter in Python ?](https://www.youtube.com/watch?v=31qOGmTQ30E)
 - [How to convert Microsoft Word file to PDF on Windows Server running on Google Cloud Platform.](https://www.youtube.com/watch?v=qSBmm0QVXwI)
 - [How to use defaultdict in Python ?](https://www.youtube.com/watch?v=DXtttKOLT_o)
 - [How to run a Python script in VS Code](https://www.youtube.com/watch?v=WunxBBI_6Cw)
 - [How to get the list from A to Z in Python without typing them ?](https://www.youtube.com/watch?v=S-Ns7-ZgIUc)
-- [How to send message, sticker, image via LINE notify using Python](https://www.youtube.com/watch?v=_iSSOUFANyk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC4ZEHFklDEPFnCTBxjaChTg)
