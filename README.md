@@ -57,10 +57,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#449](https://github.com/googleapis/python-datacatalog/issues/449) in [googleapis/python-datacatalog](https://github.com/googleapis/python-datacatalog)
-2. 🗣 Commented on [#3203](https://github.com/microsoft/pylance-release/issues/3203) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
-3. ❗️ Opened issue [#3203](https://github.com/microsoft/pylance-release/issues/3203) in [microsoft/pylance-release](https://github.com/microsoft/pylance-release)
-4. 🎉 Merged PR [#15](https://github.com/noppGithub/nplearn/pull/15) in [noppGithub/nplearn](https://github.com/noppGithub/nplearn)
+1. 🎉 Merged PR [#2](https://github.com/noppGithub/github_test/pull/2) in [noppGithub/github_test](https://github.com/noppGithub/github_test)
+2. 💪 Opened PR [#2](https://github.com/noppGithub/github_test/pull/2) in [noppGithub/github_test](https://github.com/noppGithub/github_test)
+3. 🎉 Merged PR [#1](https://github.com/noppGithub/github_test/pull/1) in [noppGithub/github_test](https://github.com/noppGithub/github_test)
+4. 💪 Opened PR [#1](https://github.com/noppGithub/github_test/pull/1) in [noppGithub/github_test](https://github.com/noppGithub/github_test)
 5. ❗️ Opened issue [#1](https://github.com/infinitelambda/postgres-debezium-bigquery/issues/1) in [infinitelambda/postgres-debezium-bigquery](https://github.com/infinitelambda/postgres-debezium-bigquery)
 <!--END_SECTION:activity-->
 
