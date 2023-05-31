@@ -57,7 +57,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#14750](https://github.com/hashicorp/terraform-provider-google/issues/14750) in [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google)
+1. ❗ Opened issue [#14750](https://github.com/hashicorp/terraform-provider-google/issues/14750) in [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google)
 2. 🎉 Merged PR [#2](https://github.com/noppGithub/github_test/pull/2) in [noppGithub/github_test](https://github.com/noppGithub/github_test)
 3. 💪 Opened PR [#2](https://github.com/noppGithub/github_test/pull/2) in [noppGithub/github_test](https://github.com/noppGithub/github_test)
 4. 🎉 Merged PR [#1](https://github.com/noppGithub/github_test/pull/1) in [noppGithub/github_test](https://github.com/noppGithub/github_test)
