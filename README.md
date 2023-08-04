@@ -57,9 +57,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14750](https://github.com/hashicorp/terraform-provider-google/issues/14750#issuecomment-1583760824) in [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google)
-2. ❗ Opened issue [#14750](https://github.com/hashicorp/terraform-provider-google/issues/14750) in [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google)
-3. 💪 Opened PR [#2](https://github.com/noppGithub/github_test/pull/2) in [noppGithub/github_test](https://github.com/noppGithub/github_test)
+1. ❗ Opened issue [#381](https://github.com/marcosschroh/dataclasses-avroschema/issues/381) in [marcosschroh/dataclasses-avroschema](https://github.com/marcosschroh/dataclasses-avroschema)
+2. 🗣 Commented on [#14750](https://github.com/hashicorp/terraform-provider-google/issues/14750#issuecomment-1583760824) in [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google)
+3. ❗ Opened issue [#14750](https://github.com/hashicorp/terraform-provider-google/issues/14750) in [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google)
 4. 🎉 Merged PR [#1](https://github.com/noppGithub/github_test/pull/1) in [noppGithub/github_test](https://github.com/noppGithub/github_test)
 5. 💪 Opened PR [#1](https://github.com/noppGithub/github_test/pull/1) in [noppGithub/github_test](https://github.com/noppGithub/github_test)
 <!--END_SECTION:activity-->
