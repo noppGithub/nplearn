@@ -93,3 +93,6 @@ env/
 
 # Rope project settings
 .ropeproject
+
+# npcustom
+*.xlsx
