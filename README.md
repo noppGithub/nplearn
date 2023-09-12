@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🤔 How to solve the Leetcode problem 27: Remove Element from the List](https://www.youtube.com/watch?v=O7iMzlbc6k0)
 - [🤔 How to solve the Leetcode problem 27: Remove Element from the List](https://www.youtube.com/watch?v=j_D3j2i-ePA)
 - [&quot;🚀 Embarking on a New Coding Journey: Can I Conquer LeetCode Challenges? 🤔](https://www.youtube.com/watch?v=VFv0g9uXwk4)
 - [How to use Counter in Python ?](https://www.youtube.com/watch?v=31qOGmTQ30E)
 - [How to convert Microsoft Word file to PDF on Windows Server running on Google Cloud Platform.](https://www.youtube.com/watch?v=qSBmm0QVXwI)
-- [How to use defaultdict in Python ?](https://www.youtube.com/watch?v=DXtttKOLT_o)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC4ZEHFklDEPFnCTBxjaChTg)
