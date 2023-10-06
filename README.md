@@ -57,10 +57,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/noppGithub/protect-main/pull/1) in [noppGithub/protect-main](https://github.com/noppGithub/protect-main)
-2. 💪 Opened PR [#1](https://github.com/noppGithub/protect-main/pull/1) in [noppGithub/protect-main](https://github.com/noppGithub/protect-main)
-3. ❗ Opened issue [#381](https://github.com/marcosschroh/dataclasses-avroschema/issues/381) in [marcosschroh/dataclasses-avroschema](https://github.com/marcosschroh/dataclasses-avroschema)
-4. 🗣 Commented on [#14750](https://github.com/hashicorp/terraform-provider-google/issues/14750#issuecomment-1583760824) in [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google)
+1. ❗ Opened issue [#626](https://github.com/AltimateAI/vscode-dbt-power-user/issues/626) in [AltimateAI/vscode-dbt-power-user](https://github.com/AltimateAI/vscode-dbt-power-user)
+2. 🎉 Merged PR [#1](https://github.com/noppGithub/protect-main/pull/1) in [noppGithub/protect-main](https://github.com/noppGithub/protect-main)
+3. 💪 Opened PR [#1](https://github.com/noppGithub/protect-main/pull/1) in [noppGithub/protect-main](https://github.com/noppGithub/protect-main)
+4. ❗ Opened issue [#381](https://github.com/marcosschroh/dataclasses-avroschema/issues/381) in [marcosschroh/dataclasses-avroschema](https://github.com/marcosschroh/dataclasses-avroschema)
 5. ❗ Opened issue [#14750](https://github.com/hashicorp/terraform-provider-google/issues/14750) in [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google)
 <!--END_SECTION:activity-->
 
