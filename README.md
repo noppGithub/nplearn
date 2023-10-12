@@ -57,11 +57,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3791](https://github.com/OpenKore/openkore/issues/3791#issuecomment-1753516464) in [OpenKore/openkore](https://github.com/OpenKore/openkore)
-2. ❗ Opened issue [#626](https://github.com/AltimateAI/vscode-dbt-power-user/issues/626) in [AltimateAI/vscode-dbt-power-user](https://github.com/AltimateAI/vscode-dbt-power-user)
-3. 🎉 Merged PR [#1](https://github.com/noppGithub/protect-main/pull/1) in [noppGithub/protect-main](https://github.com/noppGithub/protect-main)
-4. 💪 Opened PR [#1](https://github.com/noppGithub/protect-main/pull/1) in [noppGithub/protect-main](https://github.com/noppGithub/protect-main)
-5. ❗ Opened issue [#381](https://github.com/marcosschroh/dataclasses-avroschema/issues/381) in [marcosschroh/dataclasses-avroschema](https://github.com/marcosschroh/dataclasses-avroschema)
+1. ❗ Opened issue [#3812](https://github.com/OpenKore/openkore/issues/3812) in [OpenKore/openkore](https://github.com/OpenKore/openkore)
+2. 🗣 Commented on [#3791](https://github.com/OpenKore/openkore/issues/3791#issuecomment-1753516464) in [OpenKore/openkore](https://github.com/OpenKore/openkore)
+3. ❗ Opened issue [#626](https://github.com/AltimateAI/vscode-dbt-power-user/issues/626) in [AltimateAI/vscode-dbt-power-user](https://github.com/AltimateAI/vscode-dbt-power-user)
+4. 🎉 Merged PR [#1](https://github.com/noppGithub/protect-main/pull/1) in [noppGithub/protect-main](https://github.com/noppGithub/protect-main)
+5. 💪 Opened PR [#1](https://github.com/noppGithub/protect-main/pull/1) in [noppGithub/protect-main](https://github.com/noppGithub/protect-main)
 <!--END_SECTION:activity-->
 
 </details>
