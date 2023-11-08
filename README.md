@@ -57,11 +57,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#443](https://github.com/microsoft/vscode-pylint/issues/443) in [microsoft/vscode-pylint](https://github.com/microsoft/vscode-pylint)
-2. 🗣 Commented on [#3813](https://github.com/OpenKore/openkore/issues/3813#issuecomment-1763258716) in [OpenKore/openkore](https://github.com/OpenKore/openkore)
-3. ❗ Opened issue [#3812](https://github.com/OpenKore/openkore/issues/3812) in [OpenKore/openkore](https://github.com/OpenKore/openkore)
-4. 🗣 Commented on [#3791](https://github.com/OpenKore/openkore/issues/3791#issuecomment-1753516464) in [OpenKore/openkore](https://github.com/OpenKore/openkore)
-5. ❗ Opened issue [#626](https://github.com/AltimateAI/vscode-dbt-power-user/issues/626) in [AltimateAI/vscode-dbt-power-user](https://github.com/AltimateAI/vscode-dbt-power-user)
+1. 🗣 Commented on [#443](https://github.com/microsoft/vscode-pylint/issues/443#issuecomment-1801191792) in [microsoft/vscode-pylint](https://github.com/microsoft/vscode-pylint)
+2. 🔒 Closed issue [#443](https://github.com/microsoft/vscode-pylint/issues/443) in [microsoft/vscode-pylint](https://github.com/microsoft/vscode-pylint)
+3. ❗ Opened issue [#443](https://github.com/microsoft/vscode-pylint/issues/443) in [microsoft/vscode-pylint](https://github.com/microsoft/vscode-pylint)
+4. 🗣 Commented on [#3813](https://github.com/OpenKore/openkore/issues/3813#issuecomment-1763258716) in [OpenKore/openkore](https://github.com/OpenKore/openkore)
+5. ❗ Opened issue [#3812](https://github.com/OpenKore/openkore/issues/3812) in [OpenKore/openkore](https://github.com/OpenKore/openkore)
 <!--END_SECTION:activity-->
 
 </details>
